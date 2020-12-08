@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="976db275-2564-45c1-af55-36f2c150b56e" name="Default Changelist" comment="bottle and children">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bottle-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bottle-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bottle-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bottle-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bottle-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bottle-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bottle-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bottle-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bottle-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bottle-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/children-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/children-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/children-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/children-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/children-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/children-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/children-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/children-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/children-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/children-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/5c9cdec26b52652435052114.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/5f045cc171b44NpMZdEYlX1.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/6c7df733256226141fd4fa74ea2c8faf.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ccca36ed917c11f13bde1b772362c53d.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/images (1).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/images (2).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/images (3).jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/images.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/silo-MIN_381109_EAA_large.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/unnamed.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/images/unnamed.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/predefined_classes.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lMkufH5vTAP33RLjRS4Wp4tbbn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bottle and children" />
+    <option name="LAST_COMMIT_MESSAGE" value="bottle and children" />
+  </component>
+</project>
