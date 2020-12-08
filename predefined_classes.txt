@@ -1,0 +1,8 @@
+dog
+person
+cat
+car
+key
+book
+motorbike
+bicycle
