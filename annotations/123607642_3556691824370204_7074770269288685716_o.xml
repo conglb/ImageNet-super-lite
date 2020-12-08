@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>123607642_3556691824370204_7074770269288685716_o.jpg</filename>
+	<path>/home/mrnam/uet_ws/cdkhmt/images/123607642_3556691824370204_7074770269288685716_o.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1365</width>
+		<height>2048</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>158</xmin>
+			<ymin>98</ymin>
+			<xmax>1190</xmax>
+			<ymax>2048</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>26-Size-Fat-Tyre-Mountain-Bicycle-with-4-0-Tire-Bike.jpg</filename>
+	<path>/home/mrnam/uet_ws/cdkhmt/images/26-Size-Fat-Tyre-Mountain-Bicycle-with-4-0-Tire-Bike.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>389</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>24</ymin>
+			<xmax>550</xmax>
+			<ymax>344</ymax>
+		</bndbox>
+	</object>
+</annotation>

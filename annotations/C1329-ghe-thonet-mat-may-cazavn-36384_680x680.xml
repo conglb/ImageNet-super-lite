@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>C1329-ghe-thonet-mat-may-cazavn-36384_680x680.jpg</filename>
+	<path>/home/mrnam/uet_ws/cdkhmt/images/C1329-ghe-thonet-mat-may-cazavn-36384_680x680.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>680</width>
+		<height>680</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>seat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>13</ymin>
+			<xmax>531</xmax>
+			<ymax>667</ymax>
+		</bndbox>
+	</object>
+</annotation>

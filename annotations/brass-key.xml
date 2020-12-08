@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>brass-key.jpg</filename>
+	<path>/home/mrnam/uet_ws/cdkhmt/images/brass-key.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1000</width>
+		<height>677</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>key</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>36</xmin>
+			<ymin>27</ymin>
+			<xmax>978</xmax>
+			<ymax>616</ymax>
+		</bndbox>
+	</object>
+</annotation>

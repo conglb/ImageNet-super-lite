@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>MY20Escape3_ColorA.jpg</filename>
+	<path>/home/mrnam/uet_ws/cdkhmt/images/MY20Escape3_ColorA.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>15</xmin>
+			<ymin>86</ymin>
+			<xmax>784</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>

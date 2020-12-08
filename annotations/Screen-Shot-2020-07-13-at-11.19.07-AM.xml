@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Screen-Shot-2020-07-13-at-11.19.07-AM.jpg</filename>
+	<path>/home/mrnam/uet_ws/cdkhmt/images/Screen-Shot-2020-07-13-at-11.19.07-AM.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>730</width>
+		<height>486</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>87</xmin>
+			<ymin>42</ymin>
+			<xmax>686</xmax>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+</annotation>

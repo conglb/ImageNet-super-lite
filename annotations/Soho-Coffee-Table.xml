@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>Soho-Coffee-Table.jpg</filename>
+	<path>/home/mrnam/uet_ws/cdkhmt/images/Soho-Coffee-Table.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>152</xmin>
+			<ymin>278</ymin>
+			<xmax>1313</xmax>
+			<ymax>823</ymax>
+		</bndbox>
+	</object>
+</annotation>

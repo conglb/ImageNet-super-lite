@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>71cBFyt1zKL._AC_SX569_.jpg</filename>
+	<path>/home/mrnam/uet_ws/cdkhmt/images/71cBFyt1zKL._AC_SX569_.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>569</width>
+		<height>484</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>1</ymin>
+			<xmax>569</xmax>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+</annotation>

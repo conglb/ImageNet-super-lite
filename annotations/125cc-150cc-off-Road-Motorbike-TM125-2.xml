@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>125cc-150cc-off-Road-Motorbike-TM125-2.jpg</filename>
+	<path>/home/mrnam/uet_ws/cdkhmt/images/125cc-150cc-off-Road-Motorbike-TM125-2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>550</width>
+		<height>378</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motobicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>10</ymin>
+			<xmax>539</xmax>
+			<ymax>369</ymax>
+		</bndbox>
+	</object>
+</annotation>

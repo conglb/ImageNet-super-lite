@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>handle_care.jpg</filename>
+	<path>/home/mrnam/uet_ws/cdkhmt/images/handle_care.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>package</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>97</xmin>
+			<ymin>38</ymin>
+			<xmax>524</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>triumph-trekker-gt-electric-bicycle.jpg</filename>
+	<path>/home/mrnam/uet_ws/cdkhmt/images/triumph-trekker-gt-electric-bicycle.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>660</width>
+		<height>440</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>63</xmin>
+			<ymin>57</ymin>
+			<xmax>592</xmax>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>21-books-GQ-April-2018-041718-3x2.jpg</filename>
+	<path>/home/mrnam/uet_ws/cdkhmt/images/21-books-GQ-April-2018-041718-3x2.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1332</width>
+		<height>1332</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>111</xmin>
+			<ymin>82</ymin>
+			<xmax>1255</xmax>
+			<ymax>1186</ymax>
+		</bndbox>
+	</object>
+</annotation>

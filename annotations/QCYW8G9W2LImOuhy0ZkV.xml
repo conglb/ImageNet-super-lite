@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>QCYW8G9W2LImOuhy0ZkV.jpg</filename>
+	<path>/home/mrnam/uet_ws/cdkhmt/images/QCYW8G9W2LImOuhy0ZkV.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>650</width>
+		<height>490</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>motorbike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>64</ymin>
+			<xmax>549</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

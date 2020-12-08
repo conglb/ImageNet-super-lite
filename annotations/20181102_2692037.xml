@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>20181102_2692037.jpg</filename>
+	<path>/home/mrnam/uet_ws/cdkhmt/images/20181102_2692037.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>682</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>138</xmin>
+			<ymin>67</ymin>
+			<xmax>869</xmax>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+</annotation>
